@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  Programa.cpp
+  Shader.cpp
+  Texture.cpp
+  Window.cpp
+D:\Users\Nishi\Desktop\ExCubo\Aulas\Aulas\Window.cpp(108,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Users\Nishi\Desktop\ExCubo\Aulas\Aulas\Window.cpp(109,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Users\Nishi\Desktop\ExCubo\Aulas\Aulas\Window.cpp(113,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Users\Nishi\Desktop\ExCubo\Aulas\Aulas\Window.cpp(114,43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Users\Nishi\Desktop\ExCubo\Aulas\Aulas\Window.cpp(116,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Users\Nishi\Desktop\ExCubo\Aulas\Aulas\Window.cpp(117,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  Aulas.vcxproj -> D:\Users\Nishi\Desktop\ExCubo\Aulas\x64\Debug\Aulas.exe
